@@ -1,6 +1,6 @@
 {
-    "name": "Dark Vendetta + Custom Icons",
-    "description": "A \"improved\" dark theme for Discord.\nOriginal theme by ignacio.\nRestored and maintained by Kitomanari.\nTested on 209.14 Discord version.\nLast updated: 30.12.2023.\n Modified by Nah!",
+    "name": "Dark Link Discord",
+    "description": "A modified Verison of Dark Vendetta",
     "authors": [
         {
             "name": "ignacio",
@@ -20,6 +20,10 @@
         "BACKGROUND_MENTIONED": [
             "#00000000"
         ]
+    },
+    "background": {
+        "url": "https://github.com/n0t-a-username/revenge-themes/blob/main/DiscordLink.jpg",
+        "alpha": 1
     },
     "rawColors": {
         "PLUM_13": "#181818",
