@@ -11,6 +11,11 @@
     "semanticColors": {
         "BACKGROUND_MENTIONED": [
             "#00000000"
+        ],
+        "INPUT_BACKGROUND": [
+            "#121212",
+            "#121212",
+            "#121212"
         ]
     },
     "background": {
