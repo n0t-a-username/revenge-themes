@@ -15,7 +15,7 @@
     },
     "background": {
         "url": "https://raw.githubusercontent.com/n0t-a-username/revenge-themes/refs/heads/main/Images/DiscordLink.jpg",
-        "alpha": 0.1,
+        "alpha": 0.25,
         "blur": 0.5
     },
     "rawColors": {
