@@ -3,14 +3,6 @@
     "description": "A modified Verison of Dark Vendetta",
     "authors": [
         {
-            "name": "ignacio",
-            "id": "811581067940855888"
-        },
-        {
-            "name": "Kitomanari",
-            "id": "437154602626973697"
-        },
-        {
             "name": "Nah",
             "id": "1180228592249090228"
         }
@@ -23,7 +15,7 @@
     },
     "background": {
         "url": "https://raw.githubusercontent.com/n0t-a-username/revenge-themes/refs/heads/main/Images/DiscordLink.jpg",
-        "alpha": 0,
+        "alpha": 0.4,
         "blur": 1.5
     },
     "rawColors": {
