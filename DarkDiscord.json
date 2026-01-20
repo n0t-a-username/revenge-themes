@@ -3,7 +3,7 @@
     "description": "A theme made from discord files!",
     "authors": [
         {
-            "name": "Nah",
+            "name": "Merb",
             "id": "1180228592249090228"
         }
     ],
@@ -12,6 +12,8 @@
         "BACKGROUND_MENTIONED": [
             "#00000000"
         ],
+"MENTION_BACKGROUND": ["#0094ba"],
+
         "INPUT_BACKGROUND": [
             "#141414",
             "#141414",
