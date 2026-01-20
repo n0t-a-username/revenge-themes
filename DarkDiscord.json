@@ -3,24 +3,16 @@
     "description": "A theme made from discord files!",
     "authors": [
         {
-            "name": "Merbious",
+            "name": "Merb",
             "id": "1180228592249090228"
         }
     ],
     "spec": 2,
     "semanticColors": {
- "BACKGROUND_ACCENT": ["#08080830"],
-    "BACKGROUND_FLOATING": ["#000000"],
-    "BACKGROUND_MENTIONED": ["#00a7d240"],
-    "BACKGROUND_MENTIONED_HOVER": ["#0094ba"],
-    "BACKGROUND_MESSAGE_HOVER": ["#007fa0"],
-    "BACKGROUND_NESTED_FLOATING": ["#000000"],
-    "BACKGROUND_MOBILE_PRIMARY": ["#000000"],
-    "BACKGROUND_MOBILE_SECONDARY": ["#000000"],
-    "BACKGROUND_MODIFIER_ACCENT": ["#4A4A4A80"],
-    "BACKGROUND_MODIFIER_ACTIVE": ["#181818"],
-    "BACKGROUND_MODIFIER_HOVER": ["#181818"],
-    "BACKGROUND_MODIFIER_SELECTED": ["#181818"],
+        "BACKGROUND_MENTIONED": [
+            "#00000000"
+        ],
+"MENTION_BACKGROUND": ["#0094ba"],
 
         "INPUT_BACKGROUND": [
             "#141414",
