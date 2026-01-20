@@ -13,6 +13,8 @@
             "#00000000"
         ],
 "MENTION_BACKGROUND": ["#0094ba"],
+"BACKGROUND_MENTIONED": ["#00a7d240"],
+    "BACKGROUND_MENTIONED_HOVER": ["#0094ba"],
 
         "INPUT_BACKGROUND": [
             "#141414",
