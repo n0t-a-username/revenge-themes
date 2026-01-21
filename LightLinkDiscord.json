@@ -1,48 +1,181 @@
 {
-    "name": "Light Link Discord",
-    "description": "A theme made from discord files!",
-    "authors": [
-        {
-            "name": "Merb",
-            "id": "1180228592249090228"
-        }
-    ],
-    "spec": 2,
-    "semanticColors": {
-        "BACKGROUND_MENTIONED": [
-            "#00000000"
-        ]
-    },
-    "background": {
-        "url": "https://raw.githubusercontent.com/n0t-a-username/revenge-themes/refs/heads/main/Images/DiscordLink.jpg",
-        "alpha": 0.25,
-        "blur": 0.5
-    },
-    "plus": {
-        "version": "0",
-        "iconpack": "rosiecord-plumpy",
-        "icons": {
-            "ic_new_pins": [
-                "#e64553"
-            ],
-            "StatusStreaming": [
-                "#7e64fb"
-            ],
-            "StatusMobileOnline": [
-                "#09bd63"
-            ],
-            "StatusIdle": [
-                "#ffd401"
-            ],
-            "StatusDND": [
-                "#ff611a"
-            ],
-            "StatusOffline": [
-                "#015bd5"
-            ],
-            "StatusOnline": [
-                "#09bd63"
-            ]
-        }
+  "id": "light-blossom-1756299765934",
+  "name": "Light Blossom (Blue)",
+  "description": "A vibrant blue reinterpretation of the Light Blossom theme with all pink and red tones removed.",
+  "version": "2",
+  "authors": [
+    {
+      "name": "kmmiio99o.dev",
+      "id": "879393496627306587"
     }
+  ],
+  "semanticColors": {
+    "PANEL_BG": ["#e7f1ff"],
+    "ANDROID_RIPPLE": ["#4dabf7"],
+    "CHAT_BACKGROUND": ["#e7f1ff"],
+    "BACKGROUND_ACCENT": ["#4dabf7"],
+    "BACKGROUND_FLOATING": ["#ffffff"],
+    "BACKGROUND_MENTIONED": ["#4dabf733"],
+    "BACKGROUND_MENTIONED_HOVER": ["#4dabf74d"],
+    "SCROLLBAR_THIN_THUMB": ["#4dabf7"],
+    "SCROLLBAR_THIN_TRACK": ["transparent"],
+    "SCROLLBAR_AUTO_THUMB": ["#4dabf7"],
+    "SCROLLBAR_AUTO_TRACK": ["transparent"],
+    "CHANNELTEXTAREA_BACKGROUND": ["#ffffff"],
+    "REDESIGN_ACTIVITY_CARD_BACKGROUND": ["#f3f8ff"],
+    "REDESIGN_ACTIVITY_CARD_BACKGROUND_PRESSED": ["#4dabf7"],
+    "CHANNELS_DEFAULT": ["#1c7ed6"],
+    "BACKGROUND_MESSAGE_HOVER": ["hsla(210, 90%, 90%, 0.3)"],
+    "BACKGROUND_NESTED_FLOATING": ["#ffffff"],
+    "BACKGROUND_MOBILE_PRIMARY": ["#e7f1ff"],
+    "BACKGROUND_MOBILE_SECONDARY": ["#f3f8ff"],
+    "BACKGROUND_MODIFIER_ACCENT": ["hsla(210, 90%, 90%, 0.3)"],
+    "BACKGROUND_MODIFIER_ACTIVE": ["hsla(210, 90%, 85%, 0.5)"],
+    "BACKGROUND_MODIFIER_HOVER": ["hsla(210, 90%, 90%, 0.3)"],
+    "BACKGROUND_MODIFIER_SELECTED": ["hsla(210, 90%, 85%, 0.5)"],
+    "BACKGROUND_PRIMARY": ["#e7f1ff"],
+    "BACKGROUND_SECONDARY": ["#f3f8ff"],
+    "BACKGROUND_SECONDARY_ALT": ["#e1eeff"],
+    "BACKGROUND_TERTIARY": ["#d0e3ff"],
+    "BG_BASE_PRIMARY": ["#e7f1ff"],
+    "BG_BACKDROP": ["#ffffffb2"],
+    "BG_BASE_SECONDARY": ["#ffffff"],
+    "BG_BASE_TERTIARY": ["#f3f8ff"],
+    "HOME_BACKGROUND": ["#f3f8ff"],
+    "BORDER_FAINT": ["hsla(210, 90%, 90%, 0.3)"],
+    "BORDER_STRONG": ["hsla(210, 70%, 70%, 0.5)"],
+    "BORDER_SUBTLE": ["hsla(210, 70%, 70%, 0.5)"],
+    "CARD_SECONDARY_BG": ["#e1eeff"],
+    "CARD_PRIMARY_BG": ["#f3f8ff"],
+    "CHANNEL_ICON": ["#1c7ed6"],
+    "EMBED_BACKGROUND": ["#e1eeff"],
+    "HEADER_PRIMARY": ["#1e90ff"],
+    "HEADER_SECONDARY": ["#1c7ed6"],
+    "INTERACTIVE_ACTIVE": ["#1e90ff"],
+    "INTERACTIVE_HOVER": ["#1e90ff"],
+    "INTERACTIVE_MUTED": ["#1c7ed666"],
+    "INTERACTIVE_NORMAL": ["#1c7ed6"],
+    "MENTION_BACKGROUND": ["#1e90ff33"],
+    "MENTION_FOREGROUND": ["#1e90ff"],
+    "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": ["#e1eeff"],
+    "REDESIGN_BUTTON_SECONDARY_BACKGROUND": ["#e1eeff"],
+    "REDESIGN_BUTTON_SECONDARY_BORDER": ["hsla(210, 70%, 70%, 0.5)"],
+    "REDESIGN_BUTTON_DANGER_BACKGROUND": ["#1e90ff"],
+    "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": ["#1c7ed6"],
+    "REDESIGN_CHANNEL_NAME_TEXT": ["#1e90ff"],
+    "REDESIGN_CHAT_INPUT_BACKGROUND": ["#ffffff"],
+    "SPOILER_HIDDEN_BACKGROUND": ["#e1eeff"],
+    "STATUS_DANGER": ["#1e90ff"],
+    "STATUS_DANGER_BACKGROUND": ["#1e90ff"],
+    "STATUS_DANGER_TEXT": ["#ffffff"],
+    "POLLS_NORMAL_FILL_HOVER": ["#e1eeff"],
+    "POLLS_NORMAL_IMAGE_BACKGROUND": ["#e1eeff"],
+    "POLLS_VICTOR_FILL": ["#4dabf780"],
+    "TEXT_LINK": ["#1e90ff"],
+    "TEXT_MUTED": ["#1c7ed666"],
+    "TEXT_NORMAL": ["#1c7ed6"],
+    "TEXT_PRIMARY": ["#1e90ff"],
+    "TEXT_SECONDARY": ["#1c7ed6"],
+    "BG_MOD_FAINT": ["hsla(210, 90%, 90%, 0.3)"],
+    "KEYBOARD": ["#ffffff"],
+    "BACKGROUND_MODIFIER_ACCEPT": ["#4dabf733"],
+    "BACKGROUND_MODIFIER_ACCEPT_HOVER": ["#4dabf74d"],
+    "AUTOMOD_QUEUED_FOR_REVIEW_BACKGROUND": ["#1e90ff33"],
+    "AUTOMOD_QUEUED_FOR_REVIEW_BACKGROUND_HOVER": ["#1e90ff4d"]
+  },
+  "rawColors": {
+    "BLUE_260": "#4dabf7",
+    "BLUE_300": "#4dabf7",
+    "BLUE_330": "#4dabf7",
+    "BLUE_345": "#4dabf7",
+    "BLUE_360": "#4dabf7",
+    "BLUE_400": "#4dabf7",
+    "BLUE_430": "#4dabf7",
+    "BLUE_460": "#4dabf7",
+    "BLUE_500": "#4dabf7",
+    "BLUE_530": "#4dabf7",
+    "BLUE_560": "#4dabf7",
+    "BLUE_600": "#4dabf7",
+    "BLUE_630": "#4dabf7",
+    "BLUE_660": "#4dabf7",
+    "BLUE_700": "#4dabf7",
+
+    "BLACK_500": "#ffffffb2",
+
+    "BRAND_200": "#1e90ff",
+    "BRAND_260": "#1e90ff",
+    "BRAND_300": "#1e90ff",
+    "BRAND_330": "#1e90ff",
+    "BRAND_345": "#1e90ff",
+    "BRAND_360": "#1e90ff",
+    "BRAND_400": "#1e90ff",
+    "BRAND_430": "#1e90ff",
+    "BRAND_460": "#1e90ff",
+    "BRAND_500": "#1e90ff",
+    "BRAND_530": "#1e90ff",
+    "BRAND_560": "#1e90ff",
+    "BRAND_600": "#1e90ff",
+    "BRAND_630": "#1e90ff",
+    "BRAND_660": "#1e90ff",
+    "BRAND_700": "#1e90ff",
+    "BRAND_730": "#1e90ff",
+
+    "PRIMARY_100": "#1e90ff",
+    "PRIMARY_200": "#1e90ff",
+    "PRIMARY_300": "#1e90ff",
+    "PRIMARY_330": "#1e90ff",
+    "PRIMARY_360": "#1e90ff",
+    "PRIMARY_400": "#1e90ff",
+    "PRIMARY_460": "#e1eeff",
+    "PRIMARY_500": "#1e90ff",
+    "PRIMARY_530": "#1e90ff",
+    "PRIMARY_600": "#ffffff",
+    "PRIMARY_630": "#f3f8ff",
+    "PRIMARY_645": "#ffffff",
+    "PRIMARY_660": "#f3f8ff",
+    "PRIMARY_700": "#f3f8ff",
+    "PRIMARY_730": "#1c7ed6",
+    "PRIMARY_800": "#f3f8ff",
+
+    "GUILD_BOOSTING_PINK": "#1e90ff",
+    "GUILD_BOOSTING_PURPLE": "#1e90ff",
+    "GUILD_BOOSTING_PURPLE_FOR_GRADIENTS": "#1e90ff",
+
+    "RED_260": "#1e90ff",
+    "RED_300": "#1e90ff",
+    "RED_330": "#1e90ff",
+    "RED_345": "#1e90ff",
+    "RED_360": "#1e90ff",
+    "RED_400": "#1e90ff",
+    "RED_430": "#1e90ff",
+    "RED_460": "#1e90ff",
+    "RED_500": "#1e90ff",
+    "RED_530": "#1e90ff",
+    "RED_560": "#1e90ff",
+    "RED_600": "#1e90ff",
+    "RED_630": "#1e90ff",
+    "RED_660": "#1e90ff",
+    "RED_700": "#1e90ff",
+
+    "ROLE_DEFAULT": "#1c7ed6",
+    "WHITE_500": "#1e90ff",
+    "WHITE_630": "#1c7ed6"
+  },
+  "plus": {
+    "version": "0",
+    "iconPack": "",
+    "mentionLineColor": "#1e90ff",
+    "customOverlays": true,
+    "icons": {
+      "trash": "#1e90ff",
+      "TrashIcon": "#1e90ff",
+      "TriangleExclamationPointIcon": "#1e90ff",
+      "toast_copy_link": "#4dabf7",
+      "toast_copy_message": "#ffffff",
+      "toast_image_saved": "#ffffff"
+    }
+  },
+  "spec": 2,
+  "createdAt": "2025-08-27",
+  "previewUrl": "https://raw.githubusercontent.com/kmmiio99o/theme-marketplace/main/themes/approved/light-blossom-1756299765934-preview.png"
 }
