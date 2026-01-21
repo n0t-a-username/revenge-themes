@@ -1,8 +1,9 @@
 {
   "id": "light-blossom-1756299765934",
-  "name": "Light Blossom (Blue)",
+  "filename": "light-blossom-1756299765934.json",
+  "name": "Light Blossom (Blue)1",
   "description": "A vibrant blue reinterpretation of the Light Blossom theme with all pink and red tones removed.",
-  "version": "2",
+  "version": "3",
   "authors": [
     {
       "name": "kmmiio99o.dev",
@@ -130,12 +131,12 @@
     "PRIMARY_500": "#1e90ff",
     "PRIMARY_530": "#1e90ff",
     "PRIMARY_600": "#ffffff",
-    "PRIMARY_630": "#f3f8ff",
+    "PRIMARY_630": "#ffffff",
     "PRIMARY_645": "#ffffff",
-    "PRIMARY_660": "#f3f8ff",
-    "PRIMARY_700": "#f3f8ff",
+    "PRIMARY_660": "#ffffff",
+    "PRIMARY_700": "#ffffff",
     "PRIMARY_730": "#1c7ed6",
-    "PRIMARY_800": "#f3f8ff",
+    "PRIMARY_800": "#ffffff",
 
     "GUILD_BOOSTING_PINK": "#1e90ff",
     "GUILD_BOOSTING_PURPLE": "#1e90ff",
@@ -158,8 +159,8 @@
     "RED_700": "#1e90ff",
 
     "ROLE_DEFAULT": "#1c7ed6",
-    "WHITE_500": "#1e90ff",
-    "WHITE_630": "#1c7ed6"
+    "WHITE_500": "#ffffff",
+    "WHITE_630": "#ffffff"
   },
   "plus": {
     "version": "0",
