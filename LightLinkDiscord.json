@@ -1,7 +1,7 @@
 {
   "id": "light-blossom-1756299765934",
   "filename": "light-blossom-1756299765934.json",
-  "name": "Light Link Discord",
+  "name": "Light Link Discord v2",
   "description": "A light theme made with discord files!",
   "version": "4",
   "authors": [
@@ -15,7 +15,7 @@
     }
   ],
   "background": {
-        "url": "https://raw.githubusercontent.com/n0t-a-username/revenge-themes/refs/heads/main/Images/DiscordLink.jpg",
+        "url": "https://raw.githubusercontent.com/n0t-a-username/revenge-themes/refs/heads/main/Images/Light.jpg",
         "alpha": 0.25,
         "blur": 0.5
     },
