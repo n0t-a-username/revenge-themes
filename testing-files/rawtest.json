@@ -1,0 +1,61 @@
+{
+  "name": "Purple Galaxy",
+  "description": "A purple sky theme made by vodka",
+  "authors": [
+    {
+      "name": "Vodka",
+      "id": "1068030255455015013"
+    }
+  ],
+  "spec": 2,
+  "rawColors": {
+    "PRIMARY_DARK": "#8F44B2",
+    "PRIMARY_100": "#3E92A1",
+    "PRIMARY_200": "#DA5C8F",
+    "PRIMARY_300": "#1F3F72",
+    "PRIMARY_360": "#E07F56",
+    "PRIMARY_400": "#7AB43C",
+    "PRIMARY_500": "#D94A6C",
+    "PRIMARY_600": "#5C9BE0",
+    "PRIMARY_630": "#A12F7D",
+    "PRIMARY_660": "#C24E3A",
+    "PRIMARY_700": "#2D7FC9",
+    "PRIMARY_800": "#F57D2B",
+
+    "BRAND_260": "#6C3AB9",
+    "BRAND_360": "#4EA672",
+    "BRAND_500": "#DB6C91",
+    "BRAND_560": "#8CE1A4",
+    "BRAND_900": "#B23F7A",
+    "BRAND_NEW": "#3F87D4",
+
+    "DANGER": "#F14C8A",
+    "BLUE_345": "#1AC9F3",
+
+    "PLUM_1": "#E09F3F",
+    "PLUM_3": "#7F5AC2",
+    "PLUM_4": "#CB3E72",
+    "PLUM_6": "#52D48F",
+    "PLUM_9": "#D65F1A",
+    "PLUM_10": "#9BE12F",
+    "PLUM_11": "#F34A6C",
+    "PLUM_13": "#4FC8D9",
+    "PLUM_15": "#B84AE0",
+    "PLUM_16": "#3FA76C",
+    "PLUM_17": "#E15F9B",
+    "PLUM_18": "#6C3FD4",
+    "PLUM_19": "#D42F7A",
+    "PLUM_20": "#2F9BE1",
+    "PLUM_21": "#F36C52",
+    "PLUM_22": "#8AC24F",
+    "PLUM_24": "#B23FD4",
+    "PLUM_25": "#E19A3F",
+
+    "PRIMARY_230": "#F34E8A",
+    "PRIMARY_460": "#5AC27F",
+    "PRIMARY_645": "#C94FD8",
+
+    "WHITE_500": "#F2B13C",
+    "WHITE_630": "#7AD4E1"
+  }
+}
