@@ -13,10 +13,10 @@
             "#00000000"
         ],
         "MENTION_BACKGROUND": [
-            "#0094ba"
+            "#329950"
         ],
         "TEXT_MENTION": [
-            "#0094ba"
+            "#329950"
         ],
         "INPUT_BACKGROUND": [
             "#141414",
@@ -25,7 +25,7 @@
         ]
     },
     "background": {
-        "url": "https://raw.githubusercontent.com/n0t-a-username/revenge-themes/refs/heads/main/Images/Wumpus.png",
+        "url": "https://raw.githubusercontent.com/n0t-a-username/revenge-themes/refs/heads/main/Images/Wumpus.jpg",
         "alpha": 0.25,
         "blur": 0.5
     },
@@ -40,9 +40,9 @@
         "PLUM_22": "#121212",
         "PLUM_23": "#181818",
         "YELLOW_300": "#329950",
-        "ORANGE_345": "#0094ba",
-        "LOL_TEXT_LIGHT": "#0094ba",
-        "LOL_TEXT_DARK": "#0094ba"
+        "ORANGE_345": "#329950",
+        "LOL_TEXT_LIGHT": "#329950",
+        "LOL_TEXT_DARK": "#329950"
     },
     "plus": {
         "version": "0",
@@ -64,7 +64,7 @@
                 "#ff611a"
             ],
             "StatusOffline": [
-                "#015bd5"
+                "#329950"
             ],
             "StatusOnline": [
                 "#09bd63"
@@ -72,4 +72,3 @@
         }
     }
 }
-
