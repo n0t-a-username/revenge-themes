@@ -1,15 +1,24 @@
 {
   "id": "light-blossom-1756299765934",
   "filename": "light-blossom-1756299765934.json",
-  "name": "Light Blossom (Blue)2",
-  "description": "A vibrant blue reinterpretation of the Light Blossom theme with all pink and red tones removed.",
+  "name": "Light Link Discord",
+  "description": "A light theme made with discord files!",
   "version": "4",
   "authors": [
     {
       "name": "kmmiio99o.dev",
       "id": "879393496627306587"
+    },
+    {
+      "name": "Merb",
+      "id": "879393496627306387"
     }
   ],
+  "background": {
+        "url": "https://raw.githubusercontent.com/n0t-a-username/revenge-themes/refs/heads/main/Images/DiscordLink.jpg",
+        "alpha": 0.25,
+        "blur": 0.5
+    },
   "semanticColors": {
     "PANEL_BG": ["#e7f1ff"],
     "ANDROID_RIPPLE": ["#4dabf7"],
