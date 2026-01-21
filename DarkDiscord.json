@@ -1,6 +1,6 @@
 {
     "name": "Dark Link Theme",
-    "description": "A theme made from discord files!",
+    "description": "A theme made from discord files!!!",
     "authors": [
         {
             "name": "Merb",
@@ -42,6 +42,7 @@
         "PRIMARY_300": "#121212",
         "PRIMARY_230": "#141414",
         "PRIMARY_100": "#141414",
+        "YELLOW_260": "#0094ba",
         "PLUM_23": "#181818",
         "YELLOW_300": "#007bff",
         "ORANGE_345": "#0094ba",
