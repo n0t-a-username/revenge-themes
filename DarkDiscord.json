@@ -1,6 +1,6 @@
 {
     "name": "Dark Link Discord",
-    "description": "A theme made from discord files!",
+    "description": "A theme made from discord files!!",
     "authors": [
         {
             "name": "Merb",
@@ -12,8 +12,12 @@
         "BACKGROUND_MENTIONED": [
             "#00000000"
         ],
-"MENTION_BACKGROUND": ["#0094ba"],
-
+        "MENTION_BACKGROUND": [
+            "#0094ba"
+        ],
+        "TEXT_MENTION": [
+            "#0094ba"
+        ],
         "INPUT_BACKGROUND": [
             "#141414",
             "#141414",
@@ -35,7 +39,8 @@
         "PLUM_20": "#121212",
         "PLUM_22": "#121212",
         "PLUM_23": "#181818",
-        "YELLOW_300": "#007bff"
+        "YELLOW_300": "#007bff",
+        "ORANGE_345": "#0094ba"
     },
     "plus": {
         "version": "0",
