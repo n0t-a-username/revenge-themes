@@ -1,0 +1,32 @@
+{
+  "name": "Plum Randomized",
+  "description": "All PLUM slots mapped to random non–dark-blue colors",
+  "authors": [
+    {
+      "name": "Vodka",
+      "id": "1068030255455015013"
+    }
+  ],
+  "spec": 2,
+  "semanticColors": {},
+  "rawColors": {
+    "PLUM_1": "#FF4D6D",
+    "PLUM_3": "#FF8FA3",
+    "PLUM_4": "#FFB703",
+    "PLUM_6": "#FB5607",
+    "PLUM_9": "#8338EC",
+    "PLUM_10": "#C77DFF",
+    "PLUM_11": "#9D4EDD",
+    "PLUM_13": "#F72585",
+    "PLUM_15": "#FF006E",
+    "PLUM_16": "#FFD166",
+    "PLUM_17": "#06D6A0",
+    "PLUM_18": "#EF476F",
+    "PLUM_19": "#F3722C",
+    "PLUM_20": "#E56B6F",
+    "PLUM_21": "#EA698B",
+    "PLUM_22": "#FFCAD4",
+    "PLUM_24": "#B56576",
+    "PLUM_25": "#000000"
+  }
+}
