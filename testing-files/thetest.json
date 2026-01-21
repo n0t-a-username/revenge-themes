@@ -1,0 +1,42 @@
+{
+  "name": "Purple Galaxy",
+  "description": "A purple sky theme made by vodka",
+  "authors": [
+    {
+      "name": "Vodka",
+      "id": "1068030255455015013"
+    }
+  ],
+  "spec": 2,
+  "rawColors": {
+ {
+  "name": "Purple Galaxy",
+  "description": "A purple sky theme made by vodka",
+  "authors": [
+    {
+      "name": "Vodka",
+      "id": "1068030255455015013"
+    }
+  ],
+  "spec": 2,
+  "rawColors": {
+  "PRIMARY_630": "#FF4500",
+  "PLUM_10": "#1E90FF",
+  "PLUM_16": "#32CD32",
+  "PLUM_17": "#FFD700",
+  "PLUM_22": "#8A2BE2",
+  "PLUM_24": "#FF1493",
+  "PRIMARY_645": "#00FFFF",
+  "BORDER_FAINT": "#FF6347",
+  "BORDER_STRONG": "#7FFF00",
+  "BORDER_SUBTLE": "#00BFFF",
+  "CARD_SECONDARY_BG": "#FF69B4",
+  "CARD_PRIMARY_BG": "#8B0000",
+  "REDESIGN_ACTIVITY_CARD_BACKGROUND": "#00FA9A",
+  "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": "#FF8C00",
+  "REDESIGN_BUTTON_SECONDARY_BACKGROUND": "#9400D3",
+  "REDESIGN_BUTTON_SECONDARY_BORDER": "#00CED1",
+  "REDESIGN_CHAT_INPUT_BACKGROUND": "#ADFF2F",
+  "SPOILER_HIDDEN_BACKGROUND": "#FF00FF"
+  }
+}
