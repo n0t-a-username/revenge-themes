@@ -1,6 +1,6 @@
 {
-    "name": "Graymer",
-    "description": "A theme made from old discord files!",
+    "name": "Traveling Wumpus",
+    "description": "A theme made from discord files!",
     "authors": [
         {
             "name": "Merb",
@@ -25,7 +25,7 @@
         ]
     },
     "background": {
-        "url": "https://raw.githubusercontent.com/n0t-a-username/revenge-themes/refs/heads/main/Images/Gray.png",
+        "url": "https://raw.githubusercontent.com/n0t-a-username/revenge-themes/refs/heads/main/Images/Wumpus.png",
         "alpha": 0.25,
         "blur": 0.5
     },
@@ -39,7 +39,7 @@
         "PLUM_20": "#121212",
         "PLUM_22": "#121212",
         "PLUM_23": "#181818",
-        "YELLOW_300": "#007bff",
+        "YELLOW_300": "#329950",
         "ORANGE_345": "#0094ba",
         "LOL_TEXT_LIGHT": "#0094ba",
         "LOL_TEXT_DARK": "#0094ba"
