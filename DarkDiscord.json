@@ -3,7 +3,7 @@
   "description": "A theme made from discord files!",
   "authors": [
     {
-      "name": "Merb",
+      "name": "Merbious",
       "id": "1180228592249090224"
     }
   ],
@@ -43,6 +43,7 @@
     "PLUM_20": "#121212",
     "PLUM_22": "#121212",
     "PRIMARY_700": "#121212",
+    "PRIMARY_660": "#141414",
     "PRIMARY_300": "#121212",
     "YELLOW_260": "#007bff",
     "PLUM_23": "#181818",
