@@ -3,7 +3,7 @@
   "description": "A theme made from discord files!",
   "authors": [
     {
-      "name": "Merbious",
+      "name": "Merb",
       "id": "1180228592249090228"
     }
   ],
@@ -17,6 +17,9 @@
     ],
     "TEXT_MENTION": [
       "#0094ba"
+    ],
+"TEXT_DEFAULT": [
+      "#ffffff"
     ],
     "INPUT_BACKGROUND": [
       "#141414",
@@ -34,12 +37,13 @@
     "PLUM_13": "#181818",
     "PLUM_15": "#181818",
     "PLUM_16": "#181818",
+    "PLUM_17": "#141414",
+    "PLUM_18": "#141414",
     "PLUM_19": "#181818",
     "PLUM_20": "#121212",
     "PLUM_22": "#121212",
     "PRIMARY_700": "#121212",
     "PRIMARY_300": "#121212",
-    "PRIMARY_230": "#141414",
     "YELLOW_260": "#007bff",
     "PLUM_23": "#181818",
     "PLUM_24": "#181818",
