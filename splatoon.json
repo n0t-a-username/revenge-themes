@@ -3,7 +3,7 @@
   "description": "A theme for the Splatoon lovers.",
   "authors": [
     {
-      "name": "Merbious",
+      "name": "Merb",
       "id": "1180228592249090224"
     }
   ],
@@ -37,7 +37,7 @@
   },
   "background": {
     "url": "https://raw.githubusercontent.com/n0t-a-username/revenge-themes/refs/heads/main/Images/splatoon3-pattern-02-1080x1920-1.jpg",
-    "alpha": 0.40,
+    "alpha": 0.35,
     "blur": 0.5
   },
   "rawColors": {
