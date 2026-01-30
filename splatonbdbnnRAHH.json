@@ -37,7 +37,7 @@
   },
   "background": {
     "url": "https://raw.githubusercontent.com/n0t-a-username/revenge-themes/refs/heads/main/Images/splatoon.jpg",
-    "alpha": 0.75,
+    "alpha": 1,
     "blur": 0.75
   },
   "rawColors": {
