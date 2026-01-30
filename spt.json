@@ -102,4 +102,63 @@
     "CHANNELS_DEFAULT": ["#FFFFFF"],
     "TEXT_LINK": ["#FB0F59"],
     "TEXT_DANGER": ["#FFFFFF"],
+    "KEYBOARD": ["#E7FA43"],
+    "CHANNEL_ICON": ["#FFFFFF"],
+    "CHAT_BACKGROUND": ["#121212"],
+    "CARD_PRIMARY_BG": ["#141414"],
+    "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": ["#FFFFFF"],
 
+    "USER_PROFILE_HEADER_OVERFLOW_BACKGROUND": [
+      "#121212",
+      "#141414",
+      "#181818"
+    ],
+
+    "BG_BASE_TERTIARY": ["#181818"]
+  },
+
+  "rawColors": {
+    "PRIMARY_200": "#FB0F59",
+    "PRIMARY_230": "#FFFFFF",
+    "PRIMARY_300": "#FFFFFF",
+    "PRIMARY_500": "#121212",
+    "PRIMARY_600": "#181818",
+    "PRIMARY_660": "#141414",
+    "PRIMARY_700": "#121212",
+    "PRIMARY_800": "#5F3AFC70",
+
+    "BRAND_260": "#E7FA43",
+    "BRAND_360": "#FB0F59",
+    "BRAND_500": "#1A1A1A",
+    "BRAND_560": "#141414",
+
+    "RED_400": "#303030",
+    "RED_430": "#121212",
+
+    "GREEN_360": "#5F3AFC",
+    "GREEN_430": "#141414",
+
+    "WHITE_500": "#FFFFFF",
+    "BLUE_345": "#E7FA43",
+
+    "YELLOW_260": "#007bff",
+    "YELLOW_300": "#007bff",
+    "ORANGE_345": "#0094ba",
+
+    "PLUM_1": "#FB0F59",
+    "PLUM_3": "#5F3AFC",
+    "PLUM_6": "#FFFFFF",
+    "PLUM_9": "#E7FA43",
+    "PLUM_11": "#FB0F59",
+    "PLUM_13": "#5F3AFC",
+    "PLUM_14": "#121212",
+    "PLUM_15": "#181818",
+    "PLUM_16": "#E7FA4370",
+    "PLUM_17": "#141414",
+    "PLUM_18": "#141414",
+    "PLUM_19": "#181818",
+    "PLUM_20": "#121212",
+    "PLUM_22": "#121212",
+    "PLUM_24": "#121212"
+  }
+}
