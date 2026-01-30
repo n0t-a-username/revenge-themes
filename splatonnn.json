@@ -36,8 +36,8 @@
     "BACKGROUND_NESTED_FLOATING": ["#181818"]
   },
   "background": {
-    "url": "https://raw.githubusercontent.com/n0t-a-username/revenge-themes/refs/heads/main/Images/splatoon3-pattern-02-1080x1920-1.jpg",
-    "alpha": 0.35,
+    "url": "https://raw.githubusercontent.com/n0t-a-username/revenge-themes/refs/heads/main/Images/splatoon.jpg",
+    "alpha": 0.5,
     "blur": 0.5
   },
   "rawColors": {
