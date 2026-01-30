@@ -1,6 +1,6 @@
 {
   "name": "Splatoon Theme",
-  "description": "A theme",
+  "description": "A theme for the Splatoon lovers.",
   "authors": [
     {
       "name": "Merbious",
@@ -37,21 +37,22 @@
   },
   "background": {
     "url": "https://raw.githubusercontent.com/n0t-a-username/revenge-themes/refs/heads/main/Images/splatoon3-pattern-02-1080x1920-1.jpg",
-    "alpha": 0.50,
+    "alpha": 0.40,
     "blur": 0.5
   },
   "rawColors": {
     "BRAND_360": "#FB0F59",
     "BRAND_500": "#5F3AFC",
-    "PRIMARY_200": "#FB0F59",
-    "PRIMARY_230": "#5F3AFC",
-    "PRIMARY_300": "#5F3AFC",
+
     "PRIMARY_700": "#121212",
+    "PRIMARY_230": "#141414",
+    "PRIMARY_300": "#121212",
+    "YELLOW_260": "#FB0F59",
     "PLUM_1": "#FB0F59",
     "PLUM_3": "#5F3AFC",
     "PLUM_11": "#5F3AFC",
     "PLUM_13": "#5F3AFC",
-    "PLUM_16": "#E7FA4370",
+    "PLUM_16": "#e7fa43",
     "GREEN_360": "#5F3AFC",
     "YELLOW_300": "#FB0F59",
     "ORANGE_345": "#FB0F59",
