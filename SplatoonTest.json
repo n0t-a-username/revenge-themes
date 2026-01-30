@@ -1,0 +1,105 @@
+{
+  "name": "Splatoon",
+  "description": "yellow accents",
+  "version": "1",
+  "authors": [
+    {
+      "name": "Merb",
+      "id": "985680174655897721"
+    }
+  ],
+  "spec": 2,
+
+  "background": {
+    "url": "https://github.com/n0t-a-username/revenge-themes/blob/main/Images/splatoon3-pattern-02-1080x1920-1.jpg",
+    "alpha": 0.25,
+    "blur": 0.5
+  },
+
+  "plus": {
+    "version": 0,
+    "mentionLineColor": "#fff",
+    "iconpack": "rosiecord-plumpy",
+    "icons": {
+      "ic_new_pins": ["#e64553"],
+      "StatusStreaming": ["#7e64fb"],
+      "StatusMobileOnline": ["#09bd63"],
+      "StatusIdle": ["#ffd401"],
+      "StatusDND": ["#ff611a"],
+      "StatusOffline": ["#015bd5"],
+      "StatusOnline": ["#09bd63"]
+    }
+  },
+
+  "semanticColors": {
+    "HEADER_PRIMARY": ["#FFFFFF"],
+    "HEADER_SECONDARY": ["#FFFFFF"],
+
+    "TEXT_NORMAL": ["#FFFFFF"],
+    "TEXT_SECONDARY": ["#FFFFFF"],
+    "TEXT_PRIMARY": ["#FFFFFF"],
+    "TEXT_MUTED": ["#E7FA43"],
+
+    "TEXT_DEFAULT": ["#ffffff"],
+    "TEXT_MENTION": ["#0094ba"],
+
+    "INTERACTIVE_NORMAL": ["#5F3AFC"],
+    "INTERACTIVE_HOVER": ["#181818"],
+    "INTERACTIVE_ACTIVE": ["#FFFFFF"],
+    "INTERACTIVE_MUTED": ["#2A2A2A"],
+
+    "BACKGROUND_PRIMARY": ["#121212"],
+    "BACKGROUND_SECONDARY": ["#141414"],
+    "BACKGROUND_SECONDARY_ALT": ["#181818"],
+    "BACKGROUND_TERTIARY": ["#141414"],
+
+    "BACKGROUND_MENTIONED": ["#00000000"],
+    "MENTION_BACKGROUND": ["#0094ba"],
+
+    "REDESIGN_BUTTON_SECONDARY_BORDER": ["#141414"],
+
+    "BACKGROUND_ACCENT": ["#08080830"],
+    "BACKGROUND_FLOATING": ["#181818"],
+    "BACKGROUND_MOBILE_PRIMARY": ["#121212"],
+    "BACKGROUND_MOBILE_SECONDARY": ["#141414"],
+    "BACKGROUND_MOBILE_FLOATING": ["#404040"],
+    "BACKGROUND_NESTED_FLOATING": ["#181818"],
+
+    "BACKGROUND_MESSAGE_HOVER": ["#E7FA43"],
+    "BACKGROUND_MODIFIER_HOVER": ["#FB0F59"],
+    "BACKGROUND_MODIFIER_ACTIVE": ["#181818"],
+    "BACKGROUND_MODIFIER_SELECTED": ["#141414"],
+    "BACKGROUND_MODIFIER_ACCENT": ["#E7FA4340"],
+
+    "EMBED_BACKGROUND": ["#181818D0"],
+
+    "BG_SURFACE_OVERLAY_TMP": ["#121212"],
+
+    "BUTTON_OUTLINE_BRAND_BACKGROUND": ["#E7FA43"],
+    "BUTTON_OUTLINE_BRAND_BOARDER": ["#141414"],
+
+    "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": ["#121212"],
+    "REDESIGN_CHAT_INPUT_BACKGROUND": ["#121212"],
+    "REDESIGN_BUTTON_SECONDARY_BACKGROUND": ["#141414"],
+    "REDESIGN_BUTTON_PRIMARY_BACKGROUND": ["#181818"],
+    "REDESIGN_INPUT_CONTROL_SELECTED": ["#FB0F59"],
+    "REDESIGN_BUTTON_TERTIARY_BACKGROUND": ["#14141400"],
+
+    "INPUT_BACKGROUND": ["#141414", "#141414", "#141414"],
+
+    "ANDROID_RIPPLE": ["#FFFFFF30"],
+
+    "BG_BASE_PRIMARY": ["#121212"],
+    "BG_BRAND": ["#141414"],
+    "BG_MOD_FAINT": ["#090909"],
+    "BG_MOD_STRONG": ["#090909"],
+
+    "SCROLLBAR_THIN_THUMB": ["#FB0F59"],
+    "SCROLLBAR_THIN_TRACK": ["#121212"],
+    "SCROLLBAR_AUTO_THUMB": ["#E7FA43"],
+    "SCROLLBAR_AUTO_TRACK": ["#FFFFFF"],
+
+    "CHANNELS_DEFAULT": ["#FFFFFF"],
+    "TEXT_LINK": ["#FB0F59"],
+    "TEXT_DANGER": ["#FFFFFF"],
+
