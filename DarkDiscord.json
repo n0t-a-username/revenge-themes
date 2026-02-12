@@ -3,14 +3,14 @@
   "description": "A theme made from discord files!",
   "authors": [
     {
-      "name": "Merbious",
+      "name": "Merb",
       "id": "1180228592249090224"
     }
   ],
   "spec": 2,
   "semanticColors": {
     "BACKGROUND_MENTIONED": [
-      "#00000000"
+      "#007bff"
     ],
     "MENTION_BACKGROUND": [
       "#0094ba"
