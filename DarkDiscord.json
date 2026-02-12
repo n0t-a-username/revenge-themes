@@ -1,6 +1,6 @@
 {
   "name": "Dark Link Theme",
-  "description": "A theme made from discord files!",
+  "description": "A theme made from discord files.",
   "authors": [
     {
       "name": "Merb",
@@ -10,7 +10,7 @@
   "spec": 2,
   "semanticColors": {
     "BACKGROUND_MENTIONED": [
-      "#007bff"
+      "#007bff66"
     ],
     "MENTION_BACKGROUND": [
       "#0094ba"
