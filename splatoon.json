@@ -1,6 +1,6 @@
 {
   "name": "Splatoon Theme",
-  "description": "A theme for the Splatoon lovers.",
+  "description": "A theme for the Splatoon lovers!",
   "authors": [
     {
       "name": "Merbious",
@@ -9,7 +9,7 @@
   ],
   "spec": 2,
   "semanticColors": {
-    "BACKGROUND_MENTIONED": ["#00000000"],
+    "BACKGROUND_MENTIONED": ["#fb0f5933"],
     "MENTION_BACKGROUND": ["#FB0F59"],
     "TEXT_MENTION": ["#FB0F59"],
     "TEXT_DEFAULT": ["#ffffff"],
@@ -37,7 +37,7 @@
   },
   "background": {
     "url": "https://raw.githubusercontent.com/n0t-a-username/revenge-themes/refs/heads/main/Images/splatoon.jpg",
-    "alpha": 1,
+    "alpha": 0.5,
     "blur": 0.75
   },
   "rawColors": {
