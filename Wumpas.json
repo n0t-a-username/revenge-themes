@@ -7,6 +7,9 @@
             "id": "1180228592249090228"
         }
     ],
+    "vendetta": {
+        "icon": "img_nitro_sticker_yellow_24px"
+    },
     "spec": 2,
     "semanticColors": {
         "BACKGROUND_MENTIONED": [
